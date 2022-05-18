@@ -1,0 +1,14 @@
+{
+  "pathPrefix": "/unreal-engine-sdk",
+  "buildTimestamp": "2022-04-13T16:52:59.552Z",
+  "gatsbyVersion": "3.14.6",
+  "themeVersion": "2.1.0",
+  "gitRepo": "git@github.com:ArcGIS/afd-unreal-engine-sdk-doc.git",
+  "gitBranch": "tom96926/0-3-0",
+  "gitCommit": "2fff45e168eab9a61afa6d4270f1b1abf57ba03e",
+  "gitCommitTimestamp": "2022-04-13T08:19:28.000Z",
+  "siteId": "unreal-engine-sdk",
+  "siteName": "ArcGIS Maps SDK for Unreal Engine",
+  "searchProduct": "unreal-sdk",
+  "xRefs": "unreal-engine-sdk.xrefs.json"
+}

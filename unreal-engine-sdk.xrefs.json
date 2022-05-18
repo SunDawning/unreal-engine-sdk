@@ -1,0 +1,206 @@
+{
+  "siteId": "unreal-engine-sdk",
+  "pathPrefix": "/unreal-engine-sdk",
+  "xrefs": {
+    "xref://site.unreal-engine-sdk/3d-attributes-api/": {
+      "url": "/layers/tutorials/3d-attributes-api/",
+      "title": "Work with 3D attributes",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/3d-attributes/": {
+      "url": "/layers/3d-attributes/",
+      "title": "3D attributes filtering",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/add-layers-api/": {
+      "url": "/layers/tutorials/add-layers-api/",
+      "title": "Add layers (C++ API)",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/add-layers-blueprints/": {
+      "url": "/layers/tutorials/add-layers-blueprints/",
+      "title": "Add layers (Blueprints)",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/add-layers-ui/": {
+      "url": "/layers/tutorials/add-layers-ui/",
+      "title": "Add layers (Details Panel UI)",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/add-the-plugin-to-a-new-project/": {
+      "url": "/install-and-set-up/add-the-plugin-to-a-new-project/",
+      "title": "Add the plugin to a new project",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/add-the-plugin-to-an-existing-project/": {
+      "url": "/install-and-set-up/add-the-plugin-to-an-existing-project/",
+      "title": "Add the plugin to an existing project",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/api-reference/": {
+      "url": "/api-reference/",
+      "title": "API Reference",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/arcgis-maps-sdk-for-unreal-engine/": {
+      "url": "/",
+      "title": "ArcGIS Maps SDK for Unreal Engine",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/building-openssl/": {
+      "url": "/reference/building-openssl/",
+      "title": "Building OpenSSL from source",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/configure-oauth-api/": {
+      "url": "/security-and-authentication/tutorials/oauth-api/",
+      "title": "Configure OAuth 2.0 (C++ API)",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/configure-oauth-ui/": {
+      "url": "/security-and-authentication/tutorials/oauth-ui/",
+      "title": "Configure OAuth 2.0 (Details Panel UI)",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/deployment/": {
+      "url": "/deployment/",
+      "title": "Deployment",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/development-options/": {
+      "url": "/install-and-set-up/development-options/",
+      "title": "Development options",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/display-a-specific-area-api/": {
+      "url": "/local-scene/tutorials/display-a-specific-area-api/",
+      "title": "Display a specific area (C++ API)",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/display-a-specific-area-blueprints/": {
+      "url": "/local-scene/tutorials/display-a-specific-area-blueprints/",
+      "title": "Display a specific area (Blueprints)",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/display-a-specific-area-ui/": {
+      "url": "/local-scene/tutorials/display-a-specific-area-ui/",
+      "title": "Display a specific area (Details Panel UI)",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/display-the-globe-api/": {
+      "url": "/global-scene/tutorials/display-the-globe-api/",
+      "title": "Display the globe (C++ API)",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/display-the-globe-blueprints/": {
+      "url": "/global-scene/tutorials/display-the-globe-blueprints/",
+      "title": "Display the globe (Blueprints)",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/display-the-globe-ui/": {
+      "url": "/global-scene/tutorials/display-the-globe-ui/",
+      "title": "Display the globe (Details Panel UI)",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/environment/": {
+      "url": "/plugin-elements/environment/",
+      "title": "Environment",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/get-started/": {
+      "url": "/get-started/",
+      "title": "Get started",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/global-scene/": {
+      "url": "/global-scene/",
+      "title": "Global scene",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/gobal-scene/": {
+      "url": "/global-scene/",
+      "title": "Global scene",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/install-and-setup/": {
+      "url": "/install-and-set-up/",
+      "title": "Install and setup",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/install-unreal-engine/": {
+      "url": "/install-and-set-up/install-unreal-engine/",
+      "title": "Install Unreal Engine",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/key-features/": {
+      "url": "/key-features/",
+      "title": "Key features",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/layers/": {
+      "url": "/layers/",
+      "title": "Layers",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/local-scene/": {
+      "url": "/local-scene/",
+      "title": "Local scene",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/location-component/": {
+      "url": "/plugin-elements/location-component/",
+      "title": "Location Component",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/plugin-elements/": {
+      "url": "/plugin-elements/",
+      "title": "Plugin elements",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/release-notes-0-1-0/": {
+      "url": "/reference/release-notes/prior-releases/0.1.0/",
+      "title": "Release notes",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/release-notes-0-2-0/": {
+      "url": "/reference/release-notes/prior-releases/0.2.0/",
+      "title": "Release notes",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/release-notes-0-3-0/": {
+      "url": "/reference/release-notes/",
+      "title": "Release notes",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/security-and-authentication/": {
+      "url": "/security-and-authentication/",
+      "title": "Security and authentication",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/support/": {
+      "url": "/support/",
+      "title": "ArcGIS Maps SDK for Unreal Engine Support",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/system-requirements/": {
+      "url": "/reference/system-requirements/",
+      "title": "System requirements",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/troubleshooting/": {
+      "url": "/troubleshooting/",
+      "title": "Troubleshooting",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/use-the-camera/": {
+      "url": "/plugin-elements/use-the-camera/",
+      "title": "Use the camera",
+      "siteId": "unreal-engine-sdk"
+    },
+    "xref://site.unreal-engine-sdk/view-state-report/": {
+      "url": "/troubleshooting/view-state-report/",
+      "title": "View state report",
+      "siteId": "unreal-engine-sdk"
+    }
+  }
+}
